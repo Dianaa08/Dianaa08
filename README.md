@@ -1,16 +1,25 @@
-## Hi there 👋
+### Olá, eu sou o Pedro Diana! 👋
 
-<!--
-**Dianaa08/Dianaa08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC**.
+Atualmente, estou focado em estudar desenvolvimento [Back-end / Front-end / Web / IA] e fundamentos da computação.
 
-Here are some ideas to get you started:
+🔭 **No momento estou trabalhando em:**
+- Projetos acadêmicos da faculdade.
+- [Cite um projeto pessoal, se tiver, ex: Um sistema de cadastro em Java].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **O que estou aprendendo:**
+- [Linguagem 1, ex: Java]
+- [Linguagem 2, ex: Python]
+- [Ferramenta, ex: Git & GitHub]
+- [Banco de Dados, ex: MySQL]
+
+🎯 **Meus Objetivos:**
+- Aprofundar meus conhecimentos em [Java].
+- Conseguir minha primeira oportunidade de estágio na área.
+
+💬 **Entre em contato comigo:**
+- [Ícone do LinkedIn] [https://www.linkedin.com/in/pedrodiana/)]
+- [Ícone do Email] [pedrudih@gmail.com]
+
+---
+*“Aprender é a única coisa de que a mente nunca se cansa, nunca tem medo e nunca se arrepende.”*
