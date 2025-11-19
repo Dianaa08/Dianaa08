@@ -40,8 +40,8 @@ O **HelpFull** é uma aplicação web focada em saúde mental e autocuidado. O o
 - Conseguir minha primeira oportunidade de estágio na área.
 
 💬 **Entre em contato comigo:**
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrodiana/)]
-- [[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrudih@gmail.com)] 
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrodiana/)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrudih@gmail.com)
 
 ---
 *“Aprender é a única coisa de que a mente nunca se cansa, nunca tem medo e nunca se arrepende.”*
